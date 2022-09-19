@@ -2,5 +2,7 @@
   "id": "emonio",
   "name": "Emonio",
   "shortName": "Emonio",
+  "icon": "emonio.png,
+  "version": "0.01"
   "type": "app"
 }
