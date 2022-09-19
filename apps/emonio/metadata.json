@@ -7,5 +7,9 @@
   "version": "0.01",
   "type": "app",
   "supports": ["BANGLEJS2"],
-  "custom": "custom.html"
+  "custom": "custom.html",
+  "storage": [
+    {"name": "emonio.app.js", "url": "emonio.app.js"},
+    {"name": "emonio.img", "url": "emonio-icon.js", "evaluate": true} 
+  ]
 }
