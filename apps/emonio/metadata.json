@@ -2,7 +2,9 @@
   "id": "emonio",
   "name": "Emonio",
   "shortName": "Emonio",
+  "description": "App to connect to your Emonio and check the current energy values.",
   "icon": "icon.png",
   "version": "0.01",
-  "type": "app"
+  "type": "app",
+  "supports": ["BANGLEJS2"]
 }
